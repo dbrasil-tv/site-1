@@ -1,0 +1,109 @@
+form{
+    text-align: center;
+}
+.botao{
+    
+    background-color:black;
+    margin: 30px;
+    padding: 20px;
+    border-radius: 100px;
+    color: white;
+}
+.banner{
+    color: #80FF33;
+    background-color: black;
+    padding: 40px;
+    font-size: 50px;
+    text-align: center;
+    width: 100%;
+}
+.canais-table {
+    padding: 30px;
+    max-width: 800px; /* Define a largura máxima da tabela */
+    margin: 1px auto; /* Centraliza a tabela na página */
+    overflow-x: auto; /* Adiciona rolagem horizontal quando necessário */
+}
+
+table {
+    color: white;
+    width: 100%; /* Define a largura da tabela como 100% */
+    border-collapse: collapse; /* Remove espaçamento entre as células */
+}
+
+td {
+    font-weight: bold; /* Define o texto em negrito */
+    font-style: italic; /* Define o texto em itálico */
+    text-align:center ;
+    padding: 10px; /* Adiciona um espaçamento interno nas células */
+    border: 1px solid #e70707; /* Adiciona uma borda às células */
+}
+
+iframe {
+    width: 100%; /* Faz com que o iframe ocupe toda a largura da célula */
+    height: 200px; /* Define a altura do iframe */
+}
+body{
+    background: rgb(10,39,223);
+background: linear-gradient(90deg, rgba(10,39,223,1) 0%, rgba(9,107,121,1) 0%, rgba(0,255,16,1) 100%);
+}
+footer {
+    height: 100%;
+    background-color: #333; /* Define a cor de fundo do rodapé */
+    color: white; /* Define a cor do texto do rodapé */
+    padding: 20px; /* Adiciona espaço interno ao redor do texto */
+    text-align: center; /* Centraliza o texto */
+}
+.espn2{
+background-image: url(/img/transferir.png);
+background-size: 100%;
+}
+.premiere{
+    height: 100px;
+    width: 100px;
+    background-image: url(/img/premiere.jpg);
+    background-size: 100%;
+    height: 100px;
+    width: 100px;
+}
+.premiere2{
+    background-image: url(/img/premiere.jpg);
+    background-size: 100%;
+    height: 100px;
+    width: 100px;
+}
+.sportv{
+    background-image: url(/img/sportv.png);
+    background-size: 100%;
+    height: 100px;
+    width: 100px;
+}
+.globo{
+    background-image: url(/img/globo.jpg);
+    background-size: 100%;
+    height: 100px;
+    width: 100px;
+}
+.espn{
+    background-image: url(/img/transferir.png);
+    background-size: 100%;
+    height: 100px;
+    width: 100px;
+}
+.paramount{
+    background-image: url(/img/paramount+.png);
+    background-size: 100%;
+    height: 100px;
+    width: 100px;
+}
+.primevideo{
+    background-image: url(/img/primevideo.jpg);
+    background-size: 100%;
+    height: 100px;
+    width: 100px;
+}
+.sportv2{
+    background-image: url(/img/sportv.png);
+    background-size: 100%;
+    height: 100px;
+    width: 100px;
+}
